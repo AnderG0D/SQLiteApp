@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <string name="textView_Titulo">Gramineas</string>
+    <string name="textView_Id">ID</string>
+    <string name="textView_Nombre">Nombre</string>
+    <string name="textView_Description">Descripcion</string>
+
+    <string name="editText_Id">Escribir Id</string>
+    <string name="editText_Nombre">Escribir Nombre</string>
+    <string name="editText_Descripcion">Escribir Descripcion</string>
+</resources>
